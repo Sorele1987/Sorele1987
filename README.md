@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorele1987" alt="sorele1987" /></a> </p>
 
+- 🔭 I’m currently working on [CV platform](CV platform)
+
+- 🌱 I’m currently learning **Python, Django, Docker, Visual Studio Code, PostgreSql,Database**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Sorele1987](https://github.com/Sorele1987)
+
 - 💬 Ask me about **Python, Django, Docker, Render**
 
 - 📫 How to reach me **sorele.ma@gmail.com**
