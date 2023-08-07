@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sorele Martinez</h1>
-<h3 align="center">Backend developer With knowledge in API's development and Python language. Experience with agile development methodologies such as Scrum or Kanban. Knowledge of the Django framework, I specialize in the Python programming language. Experience with relational databases. Knowledge in Swagger, Docker, API Rest, Github.</h3>
+<h3 align="center">Backend developer With knowledge in API's development and Python language. Experience with agile development methodologies such as Scrum. Knowledge of the Django framework, I specialize in the Python programming language. Experience with relational databases. Knowledge in Swagger, Docker, API Rest, Github.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorele1987&label=Profile%20views&color=0e75b6&style=flat" alt="sorele1987" /> </p>
 
