@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sorele Martinez</h1>
-<h3 align="center">Backend developer With knowledge in API's development and Python language. Experience with agile development methodologies such as Scrum. Knowledge of the Django framework, I specialize in the Python programming language. Experience with relational databases. Knowledge in Swagger, Docker, API Rest, Github.</h3>
+<h3 align="center">A passionate and dedicated software developer specializing in Full Stack web development. My expertise spans Front-end technologies like HTML, CSS, JavaScript, Node.js, React, and Sass, and Back-end technologies including Python, Django, Django Rest Framework, and SQL databases. I have experience with deployment platforms like Render and Heroku, and tools such as Docker, GitHub, Bitbucket, Jira, Trello, and Postman. I excel in adapting to complex environments and effectively communicating both technical and non-technical aspects. I enjoy collaborating with teams to find creative and efficient solutions, and I have experience with Agile methodologies like Scrum. My focus is on delivering quality and efficiency in every project, and I continually update my skills to stay current with the latest technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorele1987&label=Profile%20views&color=0e75b6&style=flat" alt="sorele1987" /> </p>
 
